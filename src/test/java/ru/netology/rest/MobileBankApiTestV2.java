@@ -23,4 +23,6 @@ class MobileBankApiTestV2 {
           .contentType(ContentType.JSON)
       ;
     }
+
 }
+

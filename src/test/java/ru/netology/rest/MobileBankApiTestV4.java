@@ -21,4 +21,5 @@ class MobileBankApiTestV4 {
           .body(matchesJsonSchemaInClasspath("accounts.schema.json"))
       ;
     }
+
 }
